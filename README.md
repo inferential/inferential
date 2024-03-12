@@ -9,6 +9,7 @@ In my view, effective data science relies on _simplicity_, _efficiency_, _stream
 - Julia is fast, (optionally) typed, reproducible, [energy efficient](https://sites.google.com/view/energy-efficiency-languages/updated-functional-results-2020) 
 - It has a wide variety of [thematic organizations](https://julialang.org/community/organizations/)
 - It comes with a very powerful [REPL](https://docs.julialang.org/en/v1/stdlib/REPL/)
+- [Multiple dispatch](https://www.juliawiki.com/wiki/Multiple_dispatch) offers great flexibility and high performance  
 - [Units of Measure](https://painterqubits.github.io/Unitful.jl/stable/) are easy to use
 - It has an active and growing [community](https://julialang.org/community/)
 - [AOT](https://docs.julialang.org/en/v1.11-dev/devdocs/aot/) compilation will soon be possible   

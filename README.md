@@ -13,6 +13,7 @@ In my view, effective data science relies on _simplicity_, _efficiency_, _stream
 - [Units of Measure](https://painterqubits.github.io/Unitful.jl/stable/) are easy to use
 - It has an active and growing [community](https://julialang.org/community/)
 - [AOT](https://docs.julialang.org/en/v1.11-dev/devdocs/aot/) compilation will soon be possible   
+- [Scientific ML](https://sciml.ai/) complemented by [SimpleChains.jl](https://github.com/PumasAI/SimpleChains.jl) for solving NeuralODEs on the CPU  
 
 Finally, MongoDB is easy to install, setup and use locally or on the cloud.
 
